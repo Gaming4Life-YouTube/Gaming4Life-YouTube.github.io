@@ -1,0 +1,16 @@
+Message Popup Widget:
+(goes after line: <div id="bs-4">)
+
+
+<span data-ux="Element" class="x-el x-el-span c2-1 c2-2 c2-3 c2-4 c2-5 c2-6 c2-7 c2-8">
+	<div data-ux="Block" class="x-el x-el-div c2-1 c2-2 c2-13 c2-14 c2-15 c2-1j c2-17 c2-18 c2-3 c2-4 c2-5 c2-1k c2-6 c2-7 c2-8">
+        	<style>.grecaptcha-badge { visibility: hidden; }</style>
+                <div data-ux="Block" data-aid="MESSAGING_FAB" data-edit-interactive="true" data-traffic2="pandc.vnext.editor_preview.messaging_fab_open.click" data-tccl="ux2.messaging.fab.open,click" class="x-el x-el-div c2-1 c2-2 c2-c c2-e c2-1a c2-d c2-1b c2-1c c2-1d c2-1e c2-1f c2-1g c2-3 c2-4 c2-5 c2-6 c2-7 c2-8">
+                	<svg viewBox="0 0 24 24" fill="currentColor" width="44" height="44" data-ux="Icon" class="x-el x-el-svg c2-1 c2-2 c2-1h c2-p c2-1i c2-3 c2-4 c2-5 c2-6 c2-7 c2-8"></svg>
+                        <g fill="currentColor">
+                        	<rect x="4" y="6" width="16" height="10.222" rx="1.129"></rect>
+                                <path d="M8.977 18.578l.2-2.722a.564.564 0 01.564-.523h3.61c.548 0 .774.705.327 1.024l-3.81 2.721a.564.564 0 01-.89-.5z"></path>
+                        </g>
+                </div>
+        </div>
+</span>
