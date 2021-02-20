@@ -1,0 +1,7 @@
+
+#####THE FOLLOWING IS REQUIRED FOR PROTECTED FOLDERS
+AuthUserFile htpasswd.12d84544d7c1550d5f822079c2056689
+AuthName password_required
+AuthType Basic
+Require valid-user
+########END REQUIRE
